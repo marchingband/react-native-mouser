@@ -1,3 +1,4 @@
+```javascript
 import React, { Component } from 'react';
 import {Dimensions, StyleSheet, View, } from 'react-native';
 import {Screen, Mousable, MousePad} from './components/react-native-mouser.js';
@@ -117,3 +118,4 @@ const styles = StyleSheet.create({
     backgroundColor:'white',
   },
 });
+```
